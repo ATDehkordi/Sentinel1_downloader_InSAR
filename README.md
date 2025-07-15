@@ -25,4 +25,4 @@ pip install -r requirement.txt
 ```bash
 streamlit run main.py
 ```
-### 5. ▶ Go ahead based on User Manual ([here](User Manual - S1 downloader.pdf))!
+### 5. ▶ Go ahead based on User Manual [here](User Manual - S1 downloader.pdf)!
