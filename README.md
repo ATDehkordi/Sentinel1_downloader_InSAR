@@ -1,4 +1,4 @@
-# 📥 S1 Downloader for InSAR
+# 📥 S1 Downloader for InSAR (developed by Alireza Taheri Dehkordi)
 
 A simple tool to download Sentinel-1 satellite imagery with ease for InSAR analysis. The downloader is able to get both .SAFE and .zip files of Sentinel-1 SLC data.
 
